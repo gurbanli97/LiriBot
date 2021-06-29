@@ -1,1 +1,1 @@
-movie, "explanation"
+movie, "title"
